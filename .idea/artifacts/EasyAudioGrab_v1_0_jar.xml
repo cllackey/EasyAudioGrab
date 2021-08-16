@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EasyAudioGrab_v1-0:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EasyAudioGrab_v1_0_jar</output-path>
+    <root id="archive" name="EasyAudioGrab.jar">
+      <element id="module-output" name="EasyAudioGrab" />
+    </root>
+  </artifact>
+</component>
